@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "password": "$2a$10$mvNLoL/dDXiFCidwsZZtl../ufhrcCmpGhU.A8mc8jymWaMINPebC",
+      "firstName": "123",
+      "lastName": "123",
+      "id": 1
+    },
+    {
+      "email": "levietyp111@gmail.com",
+      "password": "$2a$10$njYFtOn0u2f4a0KGlRVjsuYst1NuvdDmsBr60WwJPT0gyNbkJeT8m",
+      "name": "Lê Quốc Việt",
+      "id": 3
+    },
+    {
+      "email": "levietyp113@gmail.com",
+      "password": "$2a$10$DFJeX5CzVq.GWGCdtwmPtOx21uS3g765mgB9AEaT/GcJPAlQ0aYnK",
+      "name": "Lê Quốc Việt",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "aadasd",
+      "category": "tablet",
+      "image": "https://res.cloudinary.com/dqtnuqde5/image/upload/v1644934878/js/owdifzhurwglu1vdjr5e.png",
+      "description": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ",
+      "saleOffPrice": 1400,
+      "id": 16,
+      "originalPrice": 1400,
+      "status": true
+    },
+    {
+      "name": "Galaxy Tab A8",
+      "category": "tablet",
+      "image": "https://res.cloudinary.com/dqtnuqde5/image/upload/v1644934930/js/fqt2krl5fuu4spxrwv8t.jpg",
+      "description": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ",
+      "saleOffPrice": 800,
+      "originalPrice": 1400,
+      "id": 17
+    },
+    {
+      "name": "Galaxy Tab A7 Lite LTE - Xám Vũ Trụ",
+      "category": "tablet",
+      "image": "https://res.cloudinary.com/dqtnuqde5/image/upload/v1644934980/js/fxb1asgy6oikftd1bdop.png",
+      "description": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ",
+      "saleOffPrice": 2000,
+      "originalPrice": 1400,
+      "id": 18
+    }
+  ],
+  "categories": [
+    {
+      "name": "phone",
+      "key": "Điện thoại",
+      "id": 1
+    },
+    {
+      "name": "tablet",
+      "key": "Máy tính bảng",
+      "id": 2
+    },
+    {
+      "key": "Linh kiện",
+      "name": "accessory",
+      "id": 3
+    },
+    {
+      "key": "Đồng hồ",
+      "name": "watch",
+      "id": 4
+    },
+    {
+      "key": "nhà thông minh",
+      "name": "nhathongminh",
+      "id": 5
+    }
+  ]
+}
